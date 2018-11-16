@@ -1,6 +1,8 @@
 # xw
 
 > A Vue.js project
+## 简介
+> 基于vue的闲置物品交易SPA
 
 ## Build Setup
 
